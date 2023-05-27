@@ -3,4 +3,5 @@
 2.npm run build.   
 3.переименовать .env.example в .env.  
 4.php artisan migrate.  
-5.php artisan db:seed
+5.php artisan db:seed.  
+6.php artisan run serve.
